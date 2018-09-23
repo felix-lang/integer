@@ -1,4 +1,4 @@
-#include "integer.h"
+#include "integer.build"
 
 constexpr INTEGER_DIGIT_T integer::NEG1;
 constexpr std::size_t     integer::OCTETS;
